@@ -1,1 +1,1 @@
-Sistema de login com JWT
+Sistema de autenticação com jwt
